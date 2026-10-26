@@ -1,0 +1,91 @@
+id	kind	observation
+O01	critique	People celebrate AI optimizations without understanding the real-world constraints that made the original process necessary.
+O02	shared frustration	Workplaces treat quick calls as indispensable even when they interrupt the work or add no useful information.
+O03	product frustration	Enterprise buyers can impose software on employees who would rather not use it.
+O04	contradiction	Generating more code faster can increase the human work needed to review and repair it.
+O05	status anxiety	AI adoption is presented as a race in which ordinary people are always falling behind.
+O06	workplace ritual	Corporate language can make an empty calendar item sound like important work.
+O07	contradiction	People spend time adopting productivity frameworks without producing the outcomes those frameworks promise.
+O08	cost anxiety	Small experiments with AI can accumulate costs wildly out of proportion to their usefulness.
+O09	critique	AI enthusiasm can treat human needs and natural resources as obstacles to more compute.
+O10	self-observation	People increasingly outsource trivial everyday choices to powerful AI systems.
+O11	critique	AI affirmation can flatter weak ideas instead of testing them.
+O12	platform behavior	LinkedIn gives trivial events the ceremonial language and visuals of major professional milestones.
+O13	incentive critique	AI usage metrics can reward consumption or accidental activation rather than useful outcomes.
+O14	status game	The AI talent and data gold rush can assign enormous value to surprisingly ordinary skills or material.
+O15	status game	Startup credentials and affiliations can earn attention before anyone examines the underlying business.
+O16	workplace critique	Repeating managerial phrases or requesting updates can be mistaken for leadership and valuable work.
+O17	critique	An appealing founder story can distract people from checking whether the product or claim is credible.
+O18	behavioral observation	Professional paranoia and thought-leadership logic can turn harmless everyday situations into imaginary business threats.
+O19	shared recognition	Tech workers accumulate the same small habits, subscriptions and unfinished ambitions despite their individual success stories.
+O20	product frustration	Promoted AI features can fail at basic tasks while their marketing remains triumphantly optimistic.
+O21	identity spillover	People carry professional jargon and optimization habits into family life and ordinary relationships.
+O22	status game	Career and compensation plans can become elaborate optimization exercises disconnected from enjoying the work.
+O23	critique	A convincing AI prototype can encourage confidence well beyond the builder's domain expertise.
+O24	language critique	Vague AI and strategy phrases let people sound informed without making a falsifiable claim.
+O25	status game	Founder dedication is often measured through increasingly extreme displays of sacrifice and competition.
+O26	metric gaming	Startup revenue and valuation claims can be inflated by definitions, circular transactions or misleading arithmetic.
+O27	hiring contradiction	Employers add hiring hurdles intended to reduce risk until the process itself prevents hiring.
+O28	contradiction	AI can add another layer to existing low-value activity instead of making the underlying work useful.
+O29	credibility critique	Benchmarks and authoritative-looking charts can create confidence without useful evidence.
+O30	product frustration	Everyday enterprise software can feel so unpleasant that merely using it becomes an endurance test.
+O31	language critique	Tech marketing wraps ordinary products and services in grand abstractions and category jargon.
+O32	status anxiety	Success advice built around exceptional people can make ordinary career timelines feel like failure.
+O33	incumbent critique	An incumbent's organizational habits can be more recognizable than the software it sells.
+O34	overengineering	People spend more effort and money building an elaborate solution than the original task warrants.
+O35	wordplay	Technical terms and product names acquire absurd meanings when interpreted literally or in another context.
+O36	advice critique	Hindsight makes exceptional outcomes look predictable and easy to reproduce.
+O37	automation critique	Delegating a task to an agent can also delegate mistakes, politics and unintended consequences.
+O38	leadership contradiction	Leaders can interrupt employees while congratulating themselves for protecting their time.
+O39	security mismatch	Security rituals can focus on unlikely scenarios while overlooking the risky behavior people actually perform.
+O40	product frustration	Enterprise contracts can make leaving a product much harder than choosing it.
+O41	sales frustration	Automated outreach mistakes superficial personal details for a relevant reason to buy.
+O42	contradiction	AI makes it easier to build products without solving the problem of finding customers who want them.
+O43	status theater	The visible accessories of entrepreneurship can substitute for the less glamorous work of running a business.
+O44	constraint denial	Confident instructions such as “make no mistakes” do not remove the possibility of model errors.
+O45	career dissonance	Public declarations of mission and loyalty can conceal ordinary financial incentives.
+O46	process friction	Company processes can turn simple work into rounds of coordination and approval.
+O47	boundary violation	Sales and networking ambitions can treat any human interaction as a captive distribution opportunity.
+O48	identity spillover	People begin treating AI tools as coworkers or family members and expecting human social behavior from them.
+O49	product dependence	Reliance on AI tools makes outages and usage limits disruptive to ordinary work.
+O50	status theater	People publicly praise tools and claim expertise without being able to explain what they have actually done with them.
+O51	product frustration	AI responses have recognizable rhetorical habits that feel formulaic or intrude into human communication.
+O52	product frustration	AI systems can confidently contradict themselves or get basic questions wrong.
+O53	workplace frustration	Employees resent policies and rituals that reduce autonomy without making work better.
+O54	compensation theater	Hyped talent markets can reward negotiating signals and perceived scarcity more than demonstrated contribution.
+O55	advice critique	Online business advice can repackage luck, obvious facts or dubious schemes as a repeatable shortcut.
+O56	incentive critique	A request to maximize one metric can produce an outcome that defeats the purpose of the task.
+O57	identity spillover	Startup culture can turn leisure, relationships and personal milestones into productivity or business exercises.
+O58	contradiction	Automation can stall on small permissions and setup details after elaborate preparations to let it run autonomously.
+O59	workplace critique	People can mistake the language and scheduling of work for the delivery of work.
+O60	incentive critique	Tool recommendations and status hierarchies can change faster than users can establish a useful working practice.
+O61	product frustration	Software pricing and packaging can obscure the product's actual value and make a simple buying decision complicated.
+O62	policy contradiction	A workplace benefit can sound generous while the organization makes using it unacceptable.
+O63	founder blind spot	Founders can protect ordinary ideas as if secrecy itself made them valuable.
+O64	process contradiction	Productivity methods can become rigid rituals that obstruct the work they are meant to support.
+O65	leadership contradiction	A senior person's idea or enthusiasm can override customer evidence and the team's practical judgment.
+O66	consent friction	People accept software terms and permissions simply to get on with using the product.
+O67	product frustration	AI customer-service layers can make reaching a useful human harder rather than resolving the customer's problem.
+O68	workplace irritation	A context-free message or interruption imposes uncertainty and extra work on the recipient.
+O69	credibility theater	Logo walls and customer claims can imply a stronger commercial relationship than actually exists.
+O70	workplace disconnect	People promise features or deadlines on behalf of the team that must actually deliver them.
+O71	product gap	A polished mockup or demo can conceal the gap between how a product looks and how it works.
+O72	brand play	A mascot and familiar brand personality can become a shared joke without making a general claim about an industry.
+O73	career theater	Conventional polite language and public career stories can conceal very different private feelings or motives.
+O74	product dependence	Using AI for routine work can make doing that same work unaided feel like an exceptional achievement.
+O75	automation clutter	More automated assistants can add participants and machinery to a simple human interaction without improving it.
+O76	leadership blind spot	Founders can expect a new salesperson or executive to fix a business problem that has not been diagnosed.
+O77	product frustration	Software automation can reproduce familiar human stalling and avoidance rather than eliminate it.
+O78	metric gaming	Moving a status field or clearing a dashboard can look like progress without the underlying work being done.
+O79	status theater	Public success claims can be manufactured through selective wording, borrowed associations or outright invention.
+O80	investor behavior	Investors can fuel competitive anxiety by forwarding other companies' announcements without useful context or advice.
+O81	procrastination	A new idea or side project can be more attractive than finishing the important work already underway.
+O82	product frustration	Software can demand repeated authentication or other minor rituals out of proportion to the task.
+O83	management disconnect	Executive perks and financial interests can sit behind company-wide language about mission and metrics.
+O84	product frustration	A product's grand positioning or celebrity marketing can leave its basic purpose unexplained.
+O85	business theater	Collecting data and displaying dashboards do not guarantee useful decisions or commercial progress.
+O86	labor mismatch	The freedom and holidays enjoyed by a team can depend on invisible support or on-call work by others.
+O87	cultural saturation	An industry's preoccupations can dominate conversation until even unrelated events are interpreted through them.
+O88	product frustration	AI demos can present a thin wrapper or minor feature change as a transformative new capability.
+O89	resource allocation	Money and headcount can be allocated to visibly impressive work rather than valuable work.
+O90	claim versus reality	An AI system can imitate the surface of a task without delivering the capability its user assumes.
